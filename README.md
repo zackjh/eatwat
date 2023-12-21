@@ -2,9 +2,14 @@
 
 Eatwat is a React Native application that helps users decide what they should eat.
 
+## Demo
+
+https://github.com/zackjh/eatwat/assets/96834220/1df22e0f-0a1c-46f5-9814-aa9645ab7412
+
 ## Installation
 
 Eatwat is built using Expo and, thus, using [Expo Go](https://docs.expo.dev/get-started/expo-go/) is a quick way to try the application.
+
 
 1. Install the required dependencies using:
 
